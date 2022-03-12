@@ -1,0 +1,39 @@
+{
+
+    "items": [{
+            "caption": "Dashboards"
+
+        }, {
+            "caption": "1 Dashboard",
+            "icon": "fa-dashboard",
+            "link": "/dashboard"
+        },
+        {
+            "caption": "2 Dashboard",
+            "icon": "fa-dashboard",
+            "link": "/dashboard"
+        }, {
+            "caption": "3 Dashboard",
+            "icon": "fa-dashboard",
+            "link": "/index.html"
+        },
+        {
+            "caption": "4 Dashboard",
+            "icon": "fa-dashboard",
+            "link": "/dashboard",
+            "items": [{
+                "caption": "4 a Dashboard",
+                "icon": "fa-dashboard",
+                "link": "/dashboard"
+            }, {
+                "caption": "4 b Dashboard",
+                "icon": "fa-dashboard",
+                "link": "/dashboard"
+            }]
+        }, {
+            "caption": "5 Dashboard",
+            "icon": "fa-dashboard",
+            "link": "/dashboard"
+        }
+    ]
+}
